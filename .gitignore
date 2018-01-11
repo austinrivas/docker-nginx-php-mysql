@@ -1,3 +1,6 @@
+# IDE
+.idea/
+
 # Global
 .*.swp
 .DS_Store
@@ -11,8 +14,3 @@ etc/ssl/*
 
 # Database
 data/*
-
-# PHPStorm
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/dictionaries
